@@ -2,7 +2,7 @@
 Overview
 ========
 
-# Music Stream Processing Using Airflow, RDS, S3 & Redshift
+# Batch Data Processing Using Airflow, S3 & Redshift
 
 This project demonstrates how to use Apache Airflow to orchestrate an ETL pipeline that extracts data from an S3 bucket, transforms it, and loads it into a Redshift table. This project fetches batch data containing user and song metadata that reside in an Amazon RDS database and a streaming data stored in Amazon S3 in batch files. This pipeline extract, validate, transform and load the data into Amazon Redshift for analytical processing.
 
