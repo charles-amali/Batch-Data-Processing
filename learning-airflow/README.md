@@ -14,7 +14,7 @@ This project demonstrates how to use Apache Airflow to orchestrate an ETL pipeli
 
 
 <p align="center">
-    <img src="images/DAG.png" alt="The architecture diagram" width="100%" />
+    <img src="images/design-architecture.png" alt="The architecture diagram" width="100%" />
 </p>
 
 ## Workflow Overview
